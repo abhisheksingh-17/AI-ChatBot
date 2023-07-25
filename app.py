@@ -5,7 +5,7 @@ from gtts import gTTS
 import os
 
 # Set your OpenAI API key here
-openai.api_key = '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'
+openai.api_key = '' # Enter your API key here
 
 st.title('AI Chatbot')
 
